@@ -1,0 +1,23 @@
+.container1 
+{
+    border: 2px solid black;
+    width: auto;
+    text-align: center;
+}
+
+.container2
+{
+    display: flex;
+    border: 1px solid blue;
+    padding: 2px;
+    width: auto;
+    justify-content: space-around;
+    margin: auto;
+    
+}
+
+.container2 img:hover
+{
+    
+    box-shadow:  0px 10px 50px rgba(0, 0, 0, 0.7);
+}
